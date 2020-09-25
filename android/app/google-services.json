@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "561208211521",
+    "firebase_url": "https://save-my-nation-partner-1067b.firebaseio.com",
+    "project_id": "save-my-nation-partner-1067b",
+    "storage_bucket": "save-my-nation-partner-1067b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561208211521:android:64789f634531dfe1542ec0",
+        "android_client_info": {
+          "package_name": "com.tailermade.savemynationpartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561208211521-llosmquekmtjlu7q53uu6pu73gl0h5a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tailermade.savemynationpartner",
+            "certificate_hash": "f17c3b7f059f0b39d3c0365afb741f013df3ed59"
+          }
+        },
+        {
+          "client_id": "561208211521-gka8r0qo9dqo5mrp7fd6hjofjgq53sns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tailermade.savemynationpartner",
+            "certificate_hash": "6797d3e752086e4062d56314de716de809986316"
+          }
+        },
+        {
+          "client_id": "561208211521-0cgfpkcokl3c3mngc2lk3gr6cl4fiqm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYvs4utgvNJSSr-8WzMClt9IDAtJ5EGcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561208211521-0cgfpkcokl3c3mngc2lk3gr6cl4fiqm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
